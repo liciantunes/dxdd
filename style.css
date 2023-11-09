@@ -122,3 +122,6 @@ body{
     align-items: center;
     justify-content: center;
  }
+ button{
+   background-color: #d66be4;
+ }
